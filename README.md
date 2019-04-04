@@ -1,1 +1,1 @@
-# view image
+# image viewer
